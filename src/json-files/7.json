@@ -1,0 +1,44 @@
+{
+  "name": "NFT #7",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Brain Full"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Glasses Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beedy Bold"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blue Stripes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Pixels"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    }
+  ]
+}

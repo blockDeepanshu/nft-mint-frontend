@@ -1,0 +1,44 @@
+{
+  "name": "NFT #9",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/9.png",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Leather Bandana"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open Wide"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Groucho"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

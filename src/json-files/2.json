@@ -1,0 +1,44 @@
+{
+  "name": "NFT #2",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Hungry Fish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Sun Glasses Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beedy Red"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gray Stripes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

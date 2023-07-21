@@ -1,0 +1,44 @@
+{
+  "name": "NFT #8",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "open Wide"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Glasses White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Droopy"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green Pixels"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

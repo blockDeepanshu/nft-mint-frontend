@@ -1,0 +1,44 @@
+{
+  "name": "NFT #6",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/6.png",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Arrow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Glasses Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Derpy Red"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Stripes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

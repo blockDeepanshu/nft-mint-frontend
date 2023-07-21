@@ -1,0 +1,44 @@
+{
+  "name": "NFT #5",
+  "description": "This unique collection 10 out 0f 1000 NFTs available",
+  "image": "ipfs://QmRcQF5XXUbMoVAKhjeQAWw1GJUvJoUEdveLJZunJoF2Kk/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Lasers",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Sun Glasses Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beedy Red"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Downturned"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bricks"
+    }
+  ]
+}
